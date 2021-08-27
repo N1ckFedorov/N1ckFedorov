@@ -1,9 +1,8 @@
 ### Hi there, I'm Nick  👋
 
 ## I'm a Developer!
-- 😻 I’m currently working in Swipex!
 - 💪 I’m currently learning everything 
-- 🥺 I’m 23 years old
+- 🥺 I’m 24 years old
 - 👀 I’m from UA
 
 ### Connect with me:
