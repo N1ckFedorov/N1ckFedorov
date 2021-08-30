@@ -34,6 +34,4 @@
 <img align="left" alt="Nick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=N1ckFedorov&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/N1ckFedorov
-[twitter]: https://twitter.com/n1ck_root
-[instagram]: https://www.instagram.com/n1ck_fedorov/
-[linkedin]: https://www.linkedin.com/in/nick-fedorov-301190161/
+[instagram]: https://www.instagram.com/n1ck.dev/
