@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n1ck.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n1ck-dev) 
 
@@ -14,8 +10,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=n1ckfedorov&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=n1ckfedorov&icon=0&color=0)](https://visitcount.itsvg.in)
