@@ -2,7 +2,7 @@
 
 I'm a passionate Front-End Developer from Ukraine, specializing in building sleek, responsive, and efficient web applications. With 6+ years of experience, I enjoy working with JavaScript, React, Next.js, and Tailwind CSS.
 
-<img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="200" height='200'>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n1ck.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n1ck-dev)
